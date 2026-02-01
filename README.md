@@ -1,6 +1,7 @@
 | Home Screen | Navigation Menu | Dish Details | Cart Summary |
 |:---:|:---:|:---:|:---:|
 | <img src="home.png" width="200"/> | <img src="menu.png" width="200"/> | <img src="detail.png" width="200"/> | <img src="cart.png" width="200"/> |
+| | <img src="detail2.png" width="200"/> | <img src="cart2.png" width="200"/> |
 
 ## 🌟 Beyond the Coursework
 While this project started as a capstone requirement, I extended the functionality significantly beyond the provided instructions to create a complete product experience:
